@@ -1,0 +1,49 @@
+#h1{
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+#my-form{
+	font-family: "Courier New", Courier, monospace;
+	margin-top:0%;
+	margin-right:10%;
+	margin-bottom:0%;
+	margin-left:55%;
+	background: lightblue;
+	float:center;
+
+	padding-top:20%;
+	padding-right:5%;
+	padding-bottom:80%; 
+	padding-left:5%;
+}
+
+.information{
+
+	font-family: "Courier New", Courier, monospace;
+	float:left;
+	width:40%;
+	padding-top:15%;
+	padding-right:;
+	padding-bottom:;
+	padding-left:10%;
+	box-sizing: border-box;
+	color:#fff;
+}
+
+#mnb{
+	font-weight:800;
+}
+
+.container{
+	background:#333;
+	height:auto;
+}
+
+@media(max-width:600px){
+	main{
+		width:100%;
+		float:none;
+	}
+}
+
